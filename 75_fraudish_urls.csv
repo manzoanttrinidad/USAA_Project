@@ -1,0 +1,167 @@
+extracted,url,best_term,best_cosine,matched_terms
+ fintechs,https://www.pymnts.com/tag/fintechs/,Fintech,0.7536556,Fintech
+ tokenization,https://www.pymnts.com/tag/tokenization/,Tokenization,0.9176774,Tokenization
+ artificial intelligence,https://www.pymnts.com/tag/artificial-intelligence/,AI (Artificial Intelligence),0.7812335,AI (Artificial Intelligence)
+ blockchain,https://www.pymnts.com/tag/blockchain/,Blockchain,0.817461,Blockchain
+ 3d secure,https://www.pymnts.com/tag/3d-secure/,3DS (3D Secure),0.77916956,3DS (3D Secure)
+ digital wallets,https://www.pymnts.com/tag/digital-wallets/,Digital Wallets,0.8846181,Digital Wallets
+ authentication,https://www.pymnts.com/tag/authentication/,Authentication,0.75157183,Authentication
+ cyberattacks,https://www.pymnts.com/tag/cyberattacks/,Cyberattack,0.78804934,Cyberattack
+ privacy,https://www.pymnts.com/tag/privacy/,Privacy,0.8276957,Privacy
+ fraud prevention,https://www.pymnts.com/tag/fraud-prevention/,Fraud Prevention,0.77378505,Fraud Prevention
+ cloud computing,https://www.pymnts.com/tag/cloud-computing/,Cloud Computing,0.91075903,Cloud Computing; Cloud Computing Security
+ data point,https://www.pymnts.com/tag/data-point/,Data Points,0.7788942,Data Points
+ fintech,https://www.pymnts.com/tag/fintech/,Fintech,0.7988162,Fintech
+ credit cards,https://www.pymnts.com/tag/credit-cards/,Credit Cards,0.832425,Credit Cards
+ digital identity,https://www.pymnts.com/tag/digital-identity/,Digital Identity,0.92505527,Digital Identity
+ mobile wallets,https://www.pymnts.com/tag/mobile-wallets/,Digital Wallets,0.7719713,Digital Wallets
+ omnichannel retail,https://www.pymnts.com/tag/omnichannel-retail/,Omnichannel,0.8144989,Omnichannel
+ friendly fraud,https://www.pymnts.com/tag/friendly-fraud/,Friendly Fraud,0.900925,Friendly Fraud
+ credit bureaus,https://www.pymnts.com/tag/credit-bureaus/,Credit Bureau,0.77682394,Credit Bureau
+ risk management,https://www.pymnts.com/tag/risk-management/,Risk Management,0.915282,Risk Management
+ financial institutions,https://www.pymnts.com/tag/financial-institutions/,Financial Institution,0.7851633,Financial Institution
+ financial conduct authority,https://www.pymnts.com/tag/financial-conduct-authority/,Financial Conduct Authority (FCA),0.7702003,Financial Conduct Authority (FCA)
+ digital transformation,https://www.pymnts.com/tag/digital-transformation/,Digital Transformation,0.9087038,Digital Transformation
+ scammers,https://www.pymnts.com/tag/scammers/,Scammer,0.81894565,Instagram scammer; Scammer
+ world bank,https://www.pymnts.com/tag/world-bank/,World Bank,0.88044107,World Bank
+ voice activation,https://www.pymnts.com/tag/voice-activation/,Voice Authorization,0.7655399,Voice Authorization
+ ransomware,https://www.pymnts.com/tag/ransomware/,Ransomware,0.83205616,Ransomware
+ biometrics,https://www.pymnts.com/tag/biometrics/,Biometrics,0.9410391,Biometric Authentication; Biometrics
+ cybercrime,https://www.pymnts.com/tag/cybercrime/,Cybercrime,0.8594612,Cybercrime
+ financial crime,https://www.pymnts.com/tag/financial-crime/,Financial Crime,0.88873863,Financial Crime
+ software as a service,https://www.pymnts.com/tag/software-as-a-service/,Software-As-A-Service (SAAS),0.7853206,Software-As-A-Service (SAAS)
+ financial crimes enforcement network,https://www.pymnts.com/tag/financial-crimes-enforcement-network/,Financial Crimes Enforcement Network (FINCEN),0.8087554,Financial Crimes Enforcement Network (FINCEN)
+ digital currency,https://www.pymnts.com/tag/digital-currency/,Cryptocurrency,0.7544213,Cryptocurrency
+category digital identity,https://www.pymnts.com/category/digital-identity/,Digital Identity,0.8028346,Digital Identity
+ fraud detection,https://www.pymnts.com/tag/fraud-detection/,Fraud Detection,0.79023075,Fraud Detection
+ payments fraud,https://www.pymnts.com/tag/payments-fraud/,Payment Fraud,0.83296347,Payment Fraud
+ counterfeits,https://www.pymnts.com/tag/counterfeits/,Counterfeiting,0.78474504,Counterfeiting
+ chargebacks,https://www.pymnts.com/tag/chargebacks/,Chargeback,0.873281,Chargeback; Chargeback Fraud
+ anti money laundering,https://www.pymnts.com/tag/anti-money-laundering/,AML (Anti-Money Laundering),0.7691758,AML (Anti-Money Laundering)
+ identity fraud,https://www.pymnts.com/tag/identity-fraud/,Identity Fraud,0.86712855,Confirmation Fraud; False Identity Fraud; Identity Fraud; Identity Theft
+ social engineering,https://www.pymnts.com/tag/social-engineering/,Social Engineering,0.8739395,Social Engineering
+ cloud,https://www.pymnts.com/tag/cloud/,Cloud,0.9159545,Cloud
+ loan fraud,https://www.pymnts.com/tag/loan-fraud/,Mortgage fraud,0.7781707,Mortgage fraud
+ data breaches,https://www.pymnts.com/tag/data-breaches/,Data Breaches,0.8355357,Data Breaches
+ omnichannel,https://www.pymnts.com/tag/omnichannel/,Omnichannel,0.89583623,Omnichannel
+ money laundering,https://www.pymnts.com/tag/money-laundering/,Money Laundering,0.7989688,Money Laundering
+ check fraud,https://www.pymnts.com/tag/check-fraud/,Confirmation Fraud,0.7799844,Confirmation Fraud
+ ai scams,https://www.pymnts.com/tag/ai-scams/,Scams,0.7622627,Scams
+ omnichannel commerce,https://www.pymnts.com/tag/omnichannel-commerce/,Omnichannel,0.80385333,Omnichannel
+ identity theft,https://www.pymnts.com/tag/identity-theft/,Identity Theft,0.8831386,Identity Fraud; Identity Theft; Tax Identity Theft
+ financial crimes,https://www.pymnts.com/tag/financial-crimes/,Financial Crime,0.85565346,Financial Crime
+ digital wallet,https://www.pymnts.com/tag/digital-wallet/,Digital Wallets,0.8537657,Digital Wallets
+ passwords,https://www.pymnts.com/tag/passwords/,Password,0.77574617,Password
+ remittance,https://www.pymnts.com/tag/remittance/,Remittance,0.9267428,Remittance; Remittance Services
+ ponzi scheme,https://www.pymnts.com/tag/ponzi-scheme/,Ponzi Scheme,0.8012376,Ponzi Scheme
+ payment processing,https://www.pymnts.com/tag/payment-processing/,Payment Gateway,0.7873748,Payment Gateway
+ financial action task force,https://www.pymnts.com/tag/financial-action-task-force/,Financial Action Task Force (FATF),0.7816425,Financial Action Task Force (FATF)
+ internet of things,https://www.pymnts.com/tag/internet-of-things/,Internet Of Things (IOT),0.823695,Internet Of Things (IOT)
+ risk assessment,https://www.pymnts.com/tag/risk-assessment/,Risk Assessment,0.8877556,Risk Assessment
+ encryption,https://www.pymnts.com/tag/encryption/,Encryption,0.79199344,Encryption
+ multifactor authentication,https://www.pymnts.com/tag/multifactor-authentication/,Multi-Factor Authentication,0.86718416,Multi-Factor Authentication
+ data theft,https://www.pymnts.com/tag/data-theft/,Data Theft,0.86886203,Data Theft
+ wire fraud,https://www.pymnts.com/tag/wire-fraud/,Wire Fraud,0.8211156,Wire Fraud
+ multi factor authentication,https://www.pymnts.com/tag/multi-factor-authentication/,Multi-Factor Authentication,0.9176767,Multi-Factor Authentication
+ cross border commerce,https://www.pymnts.com/tag/cross-border-commerce/,Cross Border,0.7899319,Cross Border
+series tokenization innovation,https://www.pymnts.com/series/tokenization-innovation/,Tokenization,0.7514935,Tokenization
+series digital wallets,https://www.pymnts.com/series/digital-wallets/,Digital Wallets,0.7690733,Digital Wallets
+series fintech,https://www.pymnts.com/series/fintech/,Fintech,0.8110471,Fintech
+ cloud technology,https://www.pymnts.com/tag/cloud-technology/,Cloud Computing,0.7592002,Cloud Computing
+ artifical intelligence,https://www.pymnts.com/tag/artifical-intelligence/,AI (Artificial Intelligence),0.7767453,AI (Artificial Intelligence)
+ national institute of standards and technology,https://www.pymnts.com/tag/national-institute-of-standards-and-technology/,National Institute Of Standards And Technology (NIST),0.84087026,National Institute Of Standards And Technology (NIST)
+ cyberattack,https://www.pymnts.com/tag/cyberattack/,Cyberattack,0.8496992,Cyberattack
+ deep learning,https://www.pymnts.com/tag/deep-learning/,Deep Learning,0.8950998,Deep Learning
+ cookies,https://www.pymnts.com/tag/cookies/,Cookie,0.8331066,Cookie
+ cyberfraud,https://www.pymnts.com/tag/cyberfraud/,Cyber Fraud,0.7830686,Cyber Fraud
+ cloud services,https://www.pymnts.com/tag/cloud-services/,Cloud Computing,0.7573633,Cloud Computing
+ regtech,https://www.pymnts.com/tag/regtech/,Regtech,0.8644494,Regtech
+ financial literacy,https://www.pymnts.com/tag/financial-literacy/,Financial Intelligence,0.7713774,Financial Intelligence
+ two factor authentication,https://www.pymnts.com/tag/two-factor-authentication/,Two-Factor Authentication (2FA),0.8424717,Multi-Factor Authentication; Two-Factor Authentication (2FA)
+ regulatory compliance,https://www.pymnts.com/tag/regulatory-compliance/,Regulatory Compliance,0.8440547,Regulatory Compliance
+ identity,https://www.pymnts.com/tag/identity/,Identity,0.8324146,Identity
+ omnichannel banking,https://www.pymnts.com/tag/omnichannel-banking/,Omnichannel,0.7611674,Omnichannel
+ payments processor,https://www.pymnts.com/tag/payments-processor/,Payment Gateway,0.7594081,Payment Gateway
+ payment fraud,https://www.pymnts.com/tag/payment-fraud/,Payment Fraud,0.8869347,Confirmation Fraud; Payment Fraud
+ financial fraud,https://www.pymnts.com/tag/financial-fraud/,Corporate fraud,0.7715741,Corporate fraud
+ cross border transactions,https://www.pymnts.com/tag/cross-border-transactions/,Cross-Border Transactions,0.88434947,Cross Border; Cross-Border Transactions
+ biometric authentication,https://www.pymnts.com/tag/biometric-authentication/,Biometric Authentication,0.9292862,Biometric Authentication; Biometrics
+ trust,https://www.pymnts.com/tag/trust/,Trust,0.8219635,Trust
+ facial recognition,https://www.pymnts.com/tag/facial-recognition/,Facial Recognition,0.8260799,Facial Recognition
+ cross border trade,https://www.pymnts.com/tag/cross-border-trade/,Cross Border,0.7694611,Cross Border
+ data encryption,https://www.pymnts.com/tag/data-encryption/,Data Encryption,0.8820453,Data Encryption
+ virtual currency 2,https://www.pymnts.com/tag/virtual-currency-2/,Virtual Currency,0.7586943,Virtual Currency
+ payment gateways,https://www.pymnts.com/tag/payment-gateways/,Payment Gateway,0.8329545,Payment Gateway
+ 2fa,https://www.pymnts.com/tag/2fa/,Two-Factor Authentication (2FA),0.7987203,Two-Factor Authentication (2FA)
+ financial institution,https://www.pymnts.com/tag/financial-institution/,Financial Institution,0.83886874,Financial Institution
+ digital fraud,https://www.pymnts.com/tag/digital-fraud/,Cyber Fraud,0.7804613,Computer Fraud; Cyber Fraud
+ law enforcement,https://www.pymnts.com/tag/law-enforcement/,Law Enforcement,0.86846757,Law Enforcement
+ botnets,https://www.pymnts.com/tag/botnets/,Botnet,0.8531077,Botnet
+ botnet,https://www.pymnts.com/tag/botnet/,Botnet,0.93101877,Botnet
+ omnichannel experience,https://www.pymnts.com/tag/omnichannel-experience/,Omnichannel,0.8263443,Omnichannel
+ online fraud,https://www.pymnts.com/tag/online-fraud/,E-commerce Fraud,0.7713639,Cyber Fraud; E-commerce Fraud; Email Fraud
+ dark web,https://www.pymnts.com/tag/dark-web/,Dark Web,0.8604413,Dark Web
+ payment processor,https://www.pymnts.com/tag/payment-processor/,Payment Gateway,0.79128057,Payment Gateway
+ gulf cooperation council,https://www.pymnts.com/tag/gulf-cooperation-council/,Gulf Cooperation Council (GCC),0.80914766,Gulf Cooperation Council (GCC)
+ international monetary fund,https://www.pymnts.com/tag/international-monetary-fund/,International Monetary Fund (IMF),0.8239325,International Monetary Fund (IMF)
+ cross border,https://www.pymnts.com/tag/cross-border/,Cross Border,0.88550156,Cross Border
+ united nations,https://www.pymnts.com/tag/united-nations/,United Nations (UN),0.83228713,United Nations (UN)
+ phishing scams,https://www.pymnts.com/tag/phishing-scams/,Instagram scammer,0.7557994,Instagram scammer
+ oecd,https://www.pymnts.com/tag/oecd/,Organization For Economic Cooperation And Development (OECD),0.774012,Organization For Economic Cooperation And Development (OECD)
+ shell,https://www.pymnts.com/tag/shell/,Shell,0.76429147,Shell
+ credit card fraud,https://www.pymnts.com/tag/credit-card-fraud/,Credit Card Fraud,0.89282435,Credit Card Fraud
+category identity theft,https://www.pymnts.com/category/identity-theft/,Identity Theft,0.7610032,Identity Theft
+ integration,https://www.pymnts.com/tag/integration/,Integration,0.87531406,Integration
+ false declines,https://www.pymnts.com/tag/false-declines/,False Declines,0.8262013,False Declines
+ cyber attack,https://www.pymnts.com/tag/cyber-attack/,Cyberattack,0.829493,Cyberattack
+ email scams,https://www.pymnts.com/tag/email-scams/,Email Fraud,0.7630194,Email Fraud
+ embezzlement,https://www.pymnts.com/tag/embezzlement/,Embezzlement,0.9143183,Embezzlement
+ risk,https://www.pymnts.com/tag/risk/,Risk,0.8590426,Risk
+ strong customer authentication,https://www.pymnts.com/tag/strong-customer-authentication/,Consumer Authentication,0.75409365,Consumer Authentication
+ digital identification,https://www.pymnts.com/tag/digital-identification/,Digital Identity,0.7696314,Digital Identity
+ biometric security,https://www.pymnts.com/tag/biometric-security/,Biometric Authentication,0.84512335,Biometric Authentication; Biometrics
+ europol,https://www.pymnts.com/tag/europol/,Europol,0.8988402,Europol
+ behavioral analytics,https://www.pymnts.com/tag/behavioral-analytics/,Behavioral Analytics,0.8691261,Behavioral Analytics
+ credential stuffing,https://www.pymnts.com/tag/credential-stuffing/,Credential Stuffing,0.83562016,Credential Stuffing
+ tax evasion,https://www.pymnts.com/tag/tax-evasion/,Tax Evasion,0.83256036,Tax Evasion
+ biometric,https://www.pymnts.com/tag/biometric/,Biometrics,0.8718811,Biometric Authentication; Biometrics
+ correspondent banking,https://www.pymnts.com/tag/correspondent-banking/,Correspondent Banking,0.7724346,Correspondent Banking
+fintech news,https://www.pymnts.com/fintech-news/,Fintech,0.8422825,Fintech
+ cyber security,https://www.pymnts.com/tag/cyber-security/,Cybersecurity,0.81250644,Cybersecurity
+cybersecurity,https://www.pymnts.com/cybersecurity/,Cybersecurity,0.91306686,Cybersecurity
+cryptocurrency,https://www.pymnts.com/cryptocurrency/,Cryptocurrency,0.9338212,Cryptocurrency
+series paypal digital fraud,https://www.pymnts.com/series/paypal-digital-fraud/,Paypal Fraud,0.83567137,Paypal Fraud
+ false positives,https://www.pymnts.com/tag/false-positives/,False Positive,0.7621869,False Positive
+ payroll fraud,https://www.pymnts.com/tag/payroll-fraud/,Payroll Fraud,0.7956913,Payroll Fraud
+ cyber insurance,https://www.pymnts.com/tag/cyber-insurance/,Cybersecurity Insurance,0.7737497,Cybersecurity Insurance
+ chargeback,https://www.pymnts.com/tag/chargeback/,Chargeback,0.93199015,Chargeback; Chargeback Fraud
+ data mining,https://www.pymnts.com/tag/data-mining/,Data Mining,0.90897286,Data Mining
+rtificial intelligence,https://www.pymnts.com/artificial-intelligence/,AI (Artificial Intelligence),0.7976855,AI (Artificial Intelligence)
+cloud,https://www.pymnts.com/cloud/,Cloud,0.9286766,Cloud
+series fraud,https://www.pymnts.com/series/fraud/,Fraud,0.7506309,Fraud
+ geolocation,https://www.pymnts.com/tag/geolocation/,Geolocation Detection,0.798373,Geolocation Detection
+internet of things,https://www.pymnts.com/internet-of-things/,Internet Of Things (IOT),0.82451206,Internet Of Things (IOT)
+ bot,https://www.pymnts.com/tag/bot/,Bot,0.7945157,Bot
+ corporate fraud,https://www.pymnts.com/tag/corporate-fraud/,Corporate fraud,0.91467386,Corporate fraud
+digital identity,https://www.pymnts.com/digital-identity/,Digital Identity,0.92851186,Digital Identity
+ byod,https://www.pymnts.com/tag/byod/,Bring Your Own Device (BYOD),0.7689469,Bring Your Own Device (BYOD)
+mobile wallets,https://www.pymnts.com/mobile-wallets/,Digital Wallets,0.7571878,Digital Wallets
+ emv,https://www.pymnts.com/tag/emv/,EMV,0.7864466,EMV
+fintech payments,https://www.pymnts.com/fintech-payments/,Fintech,0.8105747,Fintech
+ authorization,https://www.pymnts.com/tag/authorization/,Authorization,0.79060966,Authorization
+ accounting fraud,https://www.pymnts.com/tag/accounting-fraud/,Corporate fraud,0.7625315,Corporate fraud
+ ddos,https://www.pymnts.com/tag/ddos/,Ddos Attack,0.78416806,Ddos Attack
+ wire transfer,https://www.pymnts.com/tag/wire-transfer/,Wire Transfer,0.80319816,Wire Transfer
+ cloud security,https://www.pymnts.com/tag/cloud-security/,Cloud Security,0.9213734,Cloud Computing Security; Cloud Security
+ email fraud,https://www.pymnts.com/tag/email-fraud/,Email Fraud,0.9001337,Email Fraud
+ cyber attacks,https://www.pymnts.com/tag/cyber-attacks/,Cyberattack,0.7701615,Cyberattack
+ iot security,https://www.pymnts.com/tag/iot-security/,Internet Of Things (IOT) Security,0.76006603,Internet Of Things (IOT) Security
+ chip card,https://www.pymnts.com/tag/chip-card/,Smart Card,0.79328257,Smart Card
+digital identity homepage,https://www.pymnts.com/digital-identity-homepage/,Digital Identity,0.7932218,Digital Identity
+ fintech innovation,https://www.pymnts.com/tag/fintech-innovation/,Fintech,0.7638379,Fintech
+ mobile security 2,https://www.pymnts.com/tag/mobile-security-2/,Mobile Security,0.8351398,Mobile Security
+ corporate cybersecurity,https://www.pymnts.com/tag/corporate-cybersecurity/,Cybersecurity,0.7622257,Cybersecurity
+ cyber crime,https://www.pymnts.com/tag/cyber-crime/,Cybercrime,0.841665,Cybercrime
+ sme lending,https://www.pymnts.com/tag/sme-lending/,Lending,0.81869876,Lending
+ softcard,https://www.pymnts.com/tag/softcard/,Smart Card,0.80126965,Smart Card
+internet of things 2016 futureproofing the security of iot,https://www.pymnts.com/internet-of-things/2016/futureproofing-the-security-of-iot/,Internet Of Things (IOT) Security,0.76569945,Internet Of Things (IOT) Security
