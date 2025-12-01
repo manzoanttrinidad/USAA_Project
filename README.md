@@ -86,7 +86,7 @@ uv run streamlit run app.py
 ```mermaid
 flowchart TD
     A[URL List CSV]
-    B[Scraper(request + BeautifulSoup)]
+    B[Scraper(request - BeautifulSoup)]
     C[Raw Articles CSV]
     D[Cleaner & Keyword Extractor]
     E[LLM Summaries (OpenAI)]
