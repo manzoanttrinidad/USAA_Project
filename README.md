@@ -254,10 +254,21 @@ MIT License — feel free to reuse with attribution.
 
 ---
 
-# **9. 👤 Author**
+# **9. 👤 Authors**
 
 **Anthony Manzo**  
 UNC Charlotte  
 USAA Fraud Intelligence Project  
 
----
+**Nadia Narayanan**  
+UNC Charlotte  
+USAA Fraud Intelligence Project  
+
+**Sabia Chowdhury**  
+UNC Charlotte  
+USAA Fraud Intelligence Project  
+
+**AJ Clark**  
+UNC Charlotte  
+USAA Fraud Intelligence Project  
+
