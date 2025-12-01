@@ -81,22 +81,9 @@ uv run streamlit run app.py
 
 # **3. 🧩 Architecture & Application Design**
 
-## **3.1 System Architecture (Mermaid Diagram)**
+## **3.1 System Architecture (Made with Figma)**
 
-```mermaid
-flowchart TD
-    A[URL List CSV]
-    B[Scraper(request - BeautifulSoup)]
-    C[Raw Articles CSV]
-    D[Cleaner & Keyword Extractor]
-    E[LLM Summaries (OpenAI)]
-    F[Embeddings (text-embedding-3-small)]
-    G[Supabase Vector Store]
-    H[Streamlit RAG App]
-    I[User Fraud Questions]
-
-    A --> B --> C --> D --> E --> F --> G --> H --> I
-```
+![Folder Structure](./images/arch.png)
 
 ---
 
