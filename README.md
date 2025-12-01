@@ -117,7 +117,7 @@ These are the **top-k retrieved article excerpts** returned by the embedding sim
 
 ---
 
-## **4.5 Modal Deployment Dashboard (Optional)**
+## **4.5 Modal Deployment Dashboard **
 ![Modal Dashboard](./images/modal_dashboard.png)
 
 This shows the deployed version of your app running live via Modal — with logs, function calls, uptime, and container health.
